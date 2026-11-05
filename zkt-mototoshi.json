@@ -29,7 +29,10 @@
  "license": {
   "text": "CC0 1.0"
  },
- "translation": "",
+ "translation": {
+  "count": 438,
+  "note": "AI による現代語訳"
+ },
  "blocks": [
   {
    "id": "zkt-mototoshi-0001",
@@ -6190,7 +6193,7 @@
   "blocks": 439,
   "chars": 10200,
   "poems": 439,
-  "yaku": 0,
+  "yaku": 438,
   "editions": 1,
   "updated": "2026-11-05",
   "updated_at": "2026-11-05T08:26:57+09:00"
